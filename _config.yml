@@ -20,9 +20,8 @@ social:
     url: https://www.linkedin.com/in/milindsundaram/
   - name: github
     url: https://github.com/milind
-/*  - name: codepen
-    url: https://codepen.io/thomasvaeth/
-*/
+  # - name: codepen
+  #  url: https://codepen.io/thomasvaeth/
 
 # Contact settings
 contact_img: /assets/images/placeholder-28.jpg
