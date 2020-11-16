@@ -1,16 +1,16 @@
 # Site/SEO settings
 email: milind.sundaram@stern.nyu.edu
-baseurl: ""
+baseurl: "milind.github.io"
 permalink: /:year/:month/:day/:title/
 google_analytics:
 
 name: Milind Sundaram
 title: Milind - Portfolio
 description: >
-  A page to highlight my ideas, coding, and other projects.
+  A page to remember my ideas, coding, photography, and other projects.
 url: http://milind.github.io
 twitter_username: milindsundaram
-default_img: /assets/images/placeholder-17.jpg
+default_img: /assets/images/seo.jpg
 social:
   - name: twitter
     url: https://twitter.com/milindsundaram/
