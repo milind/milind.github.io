@@ -1,6 +1,6 @@
 # Site/SEO settings
 email: milind.sundaram@stern.nyu.edu
-baseurl: "milind.github.io"
+baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics:
 
