@@ -7,10 +7,10 @@ google_analytics:
 name: Milind Sundaram
 title: Milind - Portfolio
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
+  A page to highlight my ideas, coding, and other projects.
 url: http://milind.github.io/
 twitter_username: milindsundaram
-default_img: /assets/images/seo.jpg
+default_img: /assets/images/placeholder-17.jpg
 social:
   - name: twitter
     url: https://twitter.com/milindsundaram/
