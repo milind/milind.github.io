@@ -10,7 +10,7 @@ description: >
   A page to remember my ideas, coding, photography, and other projects.
 url: http://milind.github.io
 twitter_username: milindsundaram
-default_img: /assets/images/seo.jpg
+default_img: /assets/images/favicon.ico
 social:
   - name: twitter
     url: https://twitter.com/milindsundaram/
